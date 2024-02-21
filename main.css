@@ -823,7 +823,8 @@ figcaption {
 
 .heading-style-h3 {
     font-size: 2rem;
-    line-height: 1.2
+    line-height: 1.2;
+    font-weight: 500;
 }
 
 .container-small {
