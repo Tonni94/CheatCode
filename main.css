@@ -3974,7 +3974,7 @@ video {
         position: absolute;
         top: calc(100% + 10px); /* Adjust as needed */
         left: 0;
-        transform: translateX(-80%);
+        transform: translateX(-79%);
         z-index: 999; /* Ensure it appears above other content */
     }
 }
