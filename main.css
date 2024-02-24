@@ -2512,6 +2512,11 @@ video {
     margin-bottom: 15rem;
 }
 
+.seo-main-wrapper {
+    text-align: center; /* Center-align the content within main */
+    margin-bottom: 8rem;
+}
+
 .flex-container2 {
     display: flex; /* Use flexbox for layout */
     align-items: center; /* Center items vertically */
